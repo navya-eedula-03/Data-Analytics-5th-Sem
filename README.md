@@ -8,3 +8,10 @@
 
 ### Problem Statement:
 Analysing HR Attrition and determining Key Performance Indicators.
+
+### Link to the PPT:
+https://docs.google.com/presentation/d/18Z3g7-abqBaauCV6G7FVVVAqKFt5j2C_PMUsGBiMHMU/edit#slide=id.p1
+
+### Video Link:
+https://drive.google.com/file/d/1aqFzu15U4X1ILX1yF43-qriYTOm6Epta/view?usp=sharing
+
