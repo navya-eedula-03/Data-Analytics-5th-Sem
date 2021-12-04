@@ -6,5 +6,5 @@
 
 ### Domain: HR Analytics
 
-### Problem Statement: (yet to define)
+### Problem Statement:
 Analysing HR Attrition and determining Key Performance Indicators.
