@@ -7,4 +7,4 @@
 ### Domain: HR Analytics
 
 ### Problem Statement: (yet to define)
-Breifly - which are the attributes that play a role in employee attrition and to what extent is this target value influenced by those attributes.
+Analysing HR Attrition and determining Key Performance Indicators.
